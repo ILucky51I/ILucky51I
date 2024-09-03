@@ -1,6 +1,6 @@
 ### Olá Bem-vindo(a) ao meu Repositório GitHub 👋
 
-Bem-vindo(a) eu sou Rafael, sou Engenheiro de Produção e Técnico em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira, estou cursando Engenharia de Software. Estou procurando por uma oportunidade para entrar na área de desenvolvimento de sistemas. Sou fascinado por tecnologia e sou apaixonado por desenvolvimento front end.
+Bem-vindo(a) eu sou Rafael, sou Engenheiro de Produção e Técnico em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira, estou cursando Engenharia da Computação. Estou procurando por uma oportunidade para entrar na área de desenvolvimento de sistemas. Sou fascinado por tecnologia.
 
 ##
 <div>
