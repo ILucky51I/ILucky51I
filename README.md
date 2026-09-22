@@ -4,6 +4,19 @@ Eu sou Rafael, sou Engenheiro de Produção e Técnico em Desenvolvimento de Sis
 Atualmente estou desenvolvendo conhecimentos em Excel, análise de dados, SQL, Python, Power BI, engenharia de dados e cloud.
 
 ##
+
+## Áreas de interesse
+
+- Data Analytics
+- Data Engineering
+- Business Intelligence
+- SQL
+- Python
+- Power BI
+- Cloud Computing
+- Data Visualization
+
+##
 <div>
 <a href="https://github.com/ILucky51I">
 </div>
