@@ -1,3 +1,5 @@
+<img src="./banner.png" width="100%">
+
 ### Olá Bem-vindo(a) ao meu Repositório GitHub 👋
 
 Eu sou Rafael, sou Engenheiro de Produção e Técnico em Desenvolvimento de Sistemas pela ETEC Ermelinda Giannini Teixeira, estou cursando Engenharia da Computação. Tenho interesse em transformar dados em informações para apoiar decisões e resolver problemas.
