@@ -5,7 +5,7 @@ Atualmente estou desenvolvendo conhecimentos em Excel, análise de dados, SQL, P
 
 ##
 
-## Áreas de interesse
+### Áreas de interesse
 
 - Data Analytics
 - Data Engineering
